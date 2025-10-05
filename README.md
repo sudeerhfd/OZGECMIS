@@ -14,9 +14,7 @@ Bu proje, **Java** programlama dili ve **iText** kütüphanesi kullanılarak ki�
 - Sertifikalar
 - Referanslar
 - Kariyer hedefi
-- Fotoğraf desteği (özgeçmişe fotoğraf ekleyebilme)
-- Türkçe karakter desteği (Arial font gömülerek)
-- Çok sayfalı PDF çıktısı
+- Fotoğraf desteği 
 
 ## Kullanılan Teknolojiler
 
